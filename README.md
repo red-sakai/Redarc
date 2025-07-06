@@ -1,4 +1,5 @@
 # Redarc
+![Redarc](https://github.com/user-attachments/assets/99c77b79-ad24-497c-8c2f-3f039dee1475)
 
 **Redarc** is a lightweight, Python-style dynamically typed programming language designed with built-in time-aware scripting features. It supports variable assignment, expressions, function calls, and time-based constructs like `every` and `after` to schedule code execution.
 
