@@ -46,6 +46,7 @@ python main.py your_script.red
 ```
 
 # Project Structure
+```bash
 Redarc/
 ├── main.py          # Entry point, runs the script  
 ├── lexer.py         # Tokenizer  
@@ -56,7 +57,7 @@ Redarc/
 │   └── time.py      # Time utilities  
 ├── example.red      # Sample script
 ├── example2.red     # Sample script 2
-
+```
 
 # Future Plans
 - Add control flow (if, while)
